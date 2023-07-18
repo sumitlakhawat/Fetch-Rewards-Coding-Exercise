@@ -29,6 +29,3 @@ Moving forward, the following actions are recommended:
 3. Optimization Opportunities: Additional information about the desired outcomes and objectives of the relational model will help optimize the data assets and query performance.
 
 Please feel free to explore the notebook for a comprehensive understanding of the analysis performed.
-
-Best regards,
-Sumit
